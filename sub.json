@@ -1,0 +1,20 @@
+{
+    "subscriptions" : [
+        {
+            "name" : "Netflix",
+            "imageUrl" : "https://raw.githubusercontent.com/narayanasuri/iconsamples/128/netflix.png",
+            "color" : "#0E0E0E",
+            "shade" : "1",
+            "monthly" : "200",
+            "yearly" : "2400"
+        },
+        {
+            "name" : "Slack",
+            "imageUrl" : "https://raw.githubusercontent.com/narayanasuri/iconsamples/128/slack.png",
+            "color" : "#4A154B",
+            "shade" : "0",
+            "monthly" : "200",
+            "yearly" : "2400"
+        },
+    ]
+}
